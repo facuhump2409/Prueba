@@ -2,9 +2,5 @@ Arroz
 Lentejas
 Jamon
 Auto
-<<<<<<< HEAD
 Camion
 
-=======
-Camion
->>>>>>> parent of fd0342a... merge
