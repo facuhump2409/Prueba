@@ -1,5 +1,3 @@
 Arroz
 Jamon
-Auto
-Camion
-
+Zanahoria
