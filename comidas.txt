@@ -2,4 +2,7 @@ Arroz
 Jamon
 Zanahoria
 Aceitunas
-Auto
+Kiwis
+Pomelos
+Bananas
+Sandwiches
