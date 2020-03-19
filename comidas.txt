@@ -1,8 +1,6 @@
 Arroz
 Lentejas
 Jamon
-<<<<<<< HEAD
 Auto
 Camion
-=======
->>>>>>> parent of e2f470d... agrego auto
+
