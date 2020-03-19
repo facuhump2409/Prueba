@@ -1,6 +1,4 @@
 Arroz
 Lentejas
 Jamon
-Auto
-Camion
-Hola
+Zanahoria
